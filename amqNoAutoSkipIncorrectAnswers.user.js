@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         AMQ Disable Auto Skip Vote for Incorrect Answers
+// @name         AMQ Disable Auto Skip Vote on Incorrect Answers
 // @namespace    https://github.com/Onetel2
 // @version      0.1
 // @description  enables an hotkey function to disable the Auto Skip Vote for incorrect answers
