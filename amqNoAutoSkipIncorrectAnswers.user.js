@@ -5,6 +5,7 @@
 // @description  enables an hotkey function to disable the Auto Skip Vote for incorrect answers
 // @description  must have Auto Skip Vote (Replay Phase) ticked under AMQ's general game settings
 // @description  [SHIFT] + [CTRL] + C to activate
+// @icon         https://www.google.com/s2/favicons?domain=animemusicquiz.com
 // @author       Onetel2
 // @match        https://animemusicquiz.com/*
 // @grant        none
