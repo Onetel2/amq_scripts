@@ -52,5 +52,6 @@ AMQ_addScriptData({
 		<p>Make sure that Auto Skip Vote (Replay Phase) is ticked in AMQ's general game settings</p>
 		<p>The Replay Phase won't be automatically skipped by AMQ's settings if every player answered incorrectly</p>
 		<p>[Shift + Alt + C] : Disable Auto Skip for incorrect answers</p>
+		<p></p>
 	`
 });
