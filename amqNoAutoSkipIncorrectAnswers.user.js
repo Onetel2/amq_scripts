@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AMQ Disable Auto Skip Vote on Incorrect Answers
 // @namespace    https://github.com/Onetel2
-// @version      0.1
+// @version      0.2
 // @description  enables an hotkey function to disable the Auto Skip Vote for incorrect answers
 // @description  must have Auto Skip Vote (Replay Phase) ticked under AMQ's general game settings
 // @description  [SHIFT] + [CTRL] + C to activate
