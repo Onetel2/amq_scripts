@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         AMQ Disable Auto Skip Vote for Incorrect Answers
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/Onetel2
 // @version      0.1
 // @description  enables an hotkey function to disable the Auto Skip Vote for incorrect answers
 // @description  must have Auto Skip Vote (Replay Phase) ticked under AMQ's general game settings
