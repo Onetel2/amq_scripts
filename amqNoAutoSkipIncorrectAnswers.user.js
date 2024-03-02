@@ -18,7 +18,7 @@ function doc_keyUp(event) {
     // Check if the released key is 'C' and if Shift and Alt keys are pressed
     if (event.keyCode == 67 && event.shiftKey && event.altKey) {
         isAutoSkip = !isAutoSkip;
-        chatSystemMessage(isAutoSkip ? "Disabled Auto Skip (Replay Phase) for incorrect answers" : "Enabled Auto Skip (Replay Phase) for incorrect answers");
+        chatSystemMessage(isAutoSkip ? "Disabled Auto Skip for Incorrect Answers" : "Enabled Auto Skip for Incorrect Answers");
     }
 }
 
